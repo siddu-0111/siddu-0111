@@ -1,26 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sai Siddhardha</h1>
 
 <h3 align="center">
-B.Tech CSE @ VNIT Nagpur • Competitive Programmer • AI Enthusiast
+B.Tech CSE @ VNIT Nagpur • Competitive Programmer • Backend Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+Something+New"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;Backend+Developer;Always+Learning+New+Things;Coffee+%E2%98%95+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Repeat"/>
 </p>
 
 ---
 
-<p align="center">
-
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-</p>
-
----
-
-# 💻 About Me
+# 💫 About Me
 
 ```bash
 > whoami
@@ -33,23 +23,25 @@ Sai Siddhardha
 
 💻 Competitive Programmer
 
-🧠 Currently Learning:
+🧠 Currently Learning
    • Advanced C++
-   • System Design
-   • Machine Learning
-
-🚀 Interests:
-   • Algorithms
-   • AI
+   • Data Structures & Algorithms
    • Backend Development
-   • Open Source
 
-⚡ Fun Fact:
-while(!success){
+🚀 Interests
+   • Open Source
+   • Algorithms
+   • Building Useful Projects
+
+⚡ Fun Fact
+
+while(!accepted)
+{
     code();
     debug();
     coffee++;
 }
+
 cout<<"Accepted 🎉";
 ```
 
@@ -83,33 +75,31 @@ cout<<"Accepted 🎉";
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,mongodb,git,github,linux,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,mongodb,git,github,linux,vscode,aws"/>
 
 </p>
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 LeetCode
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/siddu_0111/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-</a>
+</p>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/siddu_0111?theme=dark&font=Fira%20Code"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -131,34 +121,15 @@ cout<<"Accepted 🎉";
 
 ---
 
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddu-0111&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddu-0111/siddu-0111/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/siddu-0111/siddu-0111/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddu-0111/siddu-0111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddu-0111/siddu-0111/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/siddu-0111/siddu-0111/output/github-contribution-grid-snake.svg">
 </picture>
-
-</p>
-
----
-
-# 🏅 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest"/>
 
 </p>
 
@@ -168,10 +139,10 @@ cout<<"Accepted 🎉";
 
 | Project | Description |
 |---------|-------------|
-| 📅 Attendance Tracker | Smart attendance management with calendar integration |
-| 💰 Bank Management System | Python-based banking application |
-| 🤖 AI Price Comparison | Compare products using AI |
-| 🎮 Gaming Platform DB | SQL-based social gaming database |
+| 📅 Attendance Tracker | Smart attendance management with reminders |
+| 💰 Bank Management System | Python banking application |
+| 🎮 Social Gaming Platform | SQL database project |
+| 🤖 Price Comparison Website | Compare products online |
 
 ---
 
@@ -179,7 +150,7 @@ cout<<"Accepted 🎉";
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddu-0111&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddu-0111&theme=algolia&no-frame=true"/>
 
 </p>
 
@@ -195,7 +166,7 @@ cout<<"Accepted 🎉";
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Views
 
 <p align="center">
 
@@ -205,18 +176,4 @@ cout<<"Accepted 🎉";
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-<!--
-**siddu-0111/siddu-0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
