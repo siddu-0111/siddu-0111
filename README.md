@@ -85,29 +85,6 @@ Code • Learn • Improve • Repeat
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/siddu-0111/Attendance-Manager">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddu-0111&repo=Attendance-Manager&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/siddu-0111/BANK-MANAGEMENT-SYSTEM">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddu-0111&repo=BANK-MANAGEMENT-SYSTEM&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/siddu-0111/SOCIAL-GAMING-PLATFORM">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddu-0111&repo=SOCIAL-GAMING-PLATFORM&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/siddu-0111/leetcode-problems">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddu-0111&repo=leetcode-problems&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
