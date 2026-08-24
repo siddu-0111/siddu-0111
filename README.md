@@ -66,12 +66,13 @@ Code • Learn • Improve • Repeat
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddu-0111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=siddu-0111&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
